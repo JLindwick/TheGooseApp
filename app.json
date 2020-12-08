@@ -1,0 +1,12 @@
+{
+  "name": "gooseappandroid",
+  "displayName": "gooseappandroid",
+  "expo": {
+    "name": "gooseappandroid",
+    "slug": "gooseappandroid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
